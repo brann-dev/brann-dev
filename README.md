@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
-      <img src="https://raw.githubusercontent.com/brann-dev/assets/main/zero-slash.gif" alt="Banner" />
-        bran
+     <h1>bran</h1>
+      <img src="https://raw.githubusercontent.com/brann-dev/assets/main/zero-slash.gif" alt="Banner" /> 
   </div>
 
   
