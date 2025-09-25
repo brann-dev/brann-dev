@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,rust,nodejs,python,solidity&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,rust,nodejs,python,solidity&perline=8" />
 </div>
 
 ## 📊 GitHub Stats
