@@ -1,14 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/brann-dev/assets/main/zero-slash.gif" alt="Banner" />
   
-  # hi im bran
+  # bran
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI=<3;DeFi+🧧🤑💰;Unicorns+🦄)](https://git.io/typing-svg)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=brann-dev&color=brightgreen)
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,rust,nodejs,python,solidity&perline=8" />
