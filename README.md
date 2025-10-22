@@ -19,5 +19,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brann-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brann-dev&layout=compact&langs_count=8&theme=dark"/>
 </div>
-
-[![bran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brann-dev&theme=react-dark&hide_border=true&color=00FF00&line=00FF00&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
