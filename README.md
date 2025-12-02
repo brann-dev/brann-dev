@@ -11,11 +11,3 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,rust,nodejs,python,solidity&perline=8" />
   </div>
 </div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brann-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brann-dev&layout=compact&langs_count=8&theme=dark"/>
-</div>
